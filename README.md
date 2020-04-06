@@ -8,4 +8,4 @@ Esta va a ser el area de trabajo, antes de todo vamos a hacer unas pruebas con u
 Por ello vamos a hacer un pase de lista en este documento. Todos los que participen en este repositorio favor de poner, nombre y correo.
 
 Cesar Esteban
-esteban0.8@hotmai.com
+esteban0.8@hotmail.com
